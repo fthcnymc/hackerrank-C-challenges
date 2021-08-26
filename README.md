@@ -1,1 +1,1 @@
-# hackerrank-C-challenges
+# Solutions for hackerrank C challenges
